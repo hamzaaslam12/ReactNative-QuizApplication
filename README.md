@@ -5,8 +5,8 @@ This react native application contain packages wich is not use:
 3) Radio Button
 
 This application contain following features:
-1)firebase authentication
-2)firebase database
-3)cutomized radio button
-4)customized signOut function
-5)if and else condition in styling
+1) Firebase authentication
+2) Firebase database
+3) Cutomized radio button
+4) Customized signOut function
+5) If and else condition in styling
